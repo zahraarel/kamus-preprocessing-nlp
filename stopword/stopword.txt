@@ -1,5 +1,5 @@
       # --- Kata yang muncul saat ini ---
-    "jadi", "kalau", "begini", "semua", "besar", "apa", "iya", "tahu", "gara", "hari",
+    "jadi", "kalau", "begini", "semua", "besar", "apa", "iya", "tahu", "gara", "hari","pak",
 
     # --- Kata Hubung & Penegas Informal (Khas Twitter/Medos) ---
     "yang", "dan", "di", "ke", "dari", "untuk", "dengan", "oleh", "pada", "juga",
