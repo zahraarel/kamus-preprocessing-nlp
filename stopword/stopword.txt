@@ -8,7 +8,6 @@ iya
 tahu
 gara
 hari
-pak
 yang
 dan
 di
@@ -39,6 +38,7 @@ yah
 kan
 tapi
 namun
+melainkan
 atau
 kah
 ini
@@ -61,6 +61,9 @@ gue
 lo
 tsb
 tersebut
+banyak
+sedikit
+beberapa
 bukan
 tidak
 tak
@@ -72,6 +75,9 @@ sedang
 lagi
 baru
 lama
+banget
+sekali
+sangat
 paling
 kurang
 lebih
